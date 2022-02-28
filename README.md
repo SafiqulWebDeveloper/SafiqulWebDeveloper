@@ -26,3 +26,7 @@ Skills: HTML/ CSS/ JS/ BOOTSTRAP
 
 ![Profile views](https://gpvc.arturio.dev/SafiqulWebDeveloper)  
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
