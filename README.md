@@ -26,14 +26,3 @@ Skills: HTML/ CSS/ JS/ BOOTSTRAP
 
 ![Profile views](https://gpvc.arturio.dev/SafiqulWebDeveloper)  
 
-
-
-
-Anurag Hazra's GitHub Stats
-S
-Total Stars Earned:
-40.3k
-Total Commits (2022):
-295
-Total Issues:
-124
